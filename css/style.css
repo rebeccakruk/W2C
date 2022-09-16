@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1606636660464-e070f6b8889b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHBlcHBlcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60);
+    background-size: cover;
+}
+
+
+
+h1 {
+font-family: "Sofia", sans-serif;
+font-size: 50px;
+text-align: center;
+}
+
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    font-size: 32px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    border: 5px solid rgb(3, 3, 3);
+    
+}
+
+footer {
+    font-size: 25px;
+    text-align: center;
+}
